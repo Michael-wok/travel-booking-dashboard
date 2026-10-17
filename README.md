@@ -169,5 +169,4 @@ This project was developed to practise:
 - Deploy the application for public demonstration.
 
 ## Author
-Michael
-Developed as a full-stack web development portfolio project.
+Michael developed as a full-stack web development portfolio project.
